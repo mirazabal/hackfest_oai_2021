@@ -1,3 +1,0 @@
-/home/mir/workspace/hackfest/sm/pdcp_sm/test/build/CMakeFiles/rebuild_cache.dir
-/home/mir/workspace/hackfest/sm/pdcp_sm/test/build/CMakeFiles/edit_cache.dir
-/home/mir/workspace/hackfest/sm/pdcp_sm/test/build/CMakeFiles/test_pdcp_sm.dir
