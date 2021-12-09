@@ -67,7 +67,7 @@ if(SM_ENCODING  STREQUAL "PLAIN")
                       ../pdcp_sm_server.c 
                       ../enc/pdcp_enc_plain.c 
                       ../dec/pdcp_dec_plain.c 
-                      ../../util/alg_ds/alg/defer.c
+                      ../../util/defer.c
                       ../ie/pdcp_data_ie.c
                       ../../agent_if/read/sm_ag_if_rd.c
               )
