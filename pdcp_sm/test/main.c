@@ -23,7 +23,7 @@
 #include "../../pdcp_sm/pdcp_sm_agent.h"
 #include "../../pdcp_sm/pdcp_sm_server.h"
 
-#include "../../util/alg_ds/alg/defer.h"
+#include "../../util/defer.h"
 
 #include <assert.h>
 #include <stdbool.h>

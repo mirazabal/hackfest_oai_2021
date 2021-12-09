@@ -25,7 +25,7 @@
 
 #include <assert.h>
 #include <stdlib.h>
-#include "../util/alg_ds/alg/defer.h"
+#include "../util/defer.h"
 
 #include "enc/pdcp_enc_generic.h"
 #include "dec/pdcp_dec_generic.h"

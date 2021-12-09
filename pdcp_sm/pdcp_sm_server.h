@@ -23,7 +23,7 @@
 #ifndef PDCP_SERVICE_MODEL_SERVER_H
 #define PDCP_SERVICE_MODEL_SERVER_H
 
-#include "../../sm/sm_ric.h"
+#include "../sm_ric.h"
 
 sm_ric_t* make_pdcp_sm_ric(void);
 
